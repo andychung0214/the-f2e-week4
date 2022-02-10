@@ -1,12 +1,8 @@
 # TheF2eWeek4
 
-此專案為參加[六角學院](https://www.hexschool.com/)所舉辦的[The F2E](https://2021.thef2e.com/)而生，
+此專案為參加[六角學院](https://www.hexschool.com/)所舉辦的[The F2E](https://2021.thef2e.com/)而生，至[作品列表](https://2021.thef2e.com/works)，採用所喜愛的設計稿，
 
-至[作品列表](https://2021.thef2e.com/works)，採用所喜愛的設計稿，
-
-以一週的時間下去實作，
-
-這週主題為[「薪資數據圖表調查」](https://andychung0214.github.io/the-f2e-week4)
+以一週的時間下去實作，這週主題為[「薪資數據圖表調查」](https://andychung0214.github.io/the-f2e-week4)
 
 ## 使用技術
 
