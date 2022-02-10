@@ -1,27 +1,33 @@
 # TheF2eWeek4
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
+此專案為參加[六角學院](https://www.hexschool.com/)所舉辦的[The F2E](https://2021.thef2e.com/)而生，
 
-## Development server
+至[作品列表](https://2021.thef2e.com/works)，採用所喜愛的設計稿，
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+以一週的時間下去實作，
 
-## Code scaffolding
+這週主題為[「薪資數據圖表調查」](https://andychung0214.github.io/the-f2e-week4)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 使用技術
 
-## Build
+- Angular
+- Scss
+- AJAX
+- RWD
+- Angular Material
+- CSS Flex
+- Chart
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 採用設計稿資訊
 
-## Running unit tests
+- 設計稿網址：[[Figma](https://www.figma.com/file/nWH1xPWNWIhnqsuE1mNCsb/%E8%96%AA%E8%B3%87%E6%95%B8%E6%93%9A%E5%9C%96%E8%A1%A8%E8%AA%BF%E6%9F%A5)](https://www.figma.com/file/nWH1xPWNWIhnqsuE1mNCsb/%E8%96%AA%E8%B3%87%E6%95%B8%E6%93%9A%E5%9C%96%E8%A1%A8%E8%AA%BF%E6%9F%A5)
+- 設計稿網址：[https://www.figma.com/file/HVyKNVOhSsiAZCmPCkosrx/%E6%99%82%E5%85%89%E5%B1%8B%E6%8C%91%E6%88%B0_week4?node-id=637%3A36658](https://www.figma.com/file/HVyKNVOhSsiAZCmPCkosrx/%E6%99%82%E5%85%89%E5%B1%8B%E6%8C%91%E6%88%B0_week4?node-id=637%3A36658)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 個人投稿資訊
 
-## Running end-to-end tests
+- 個人資訊：https://andychung0214.github.io/about/
+- 投稿位址：https://2021.thef2e.com/users/6296432819610583674/
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Demo
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+https://andychung0214.github.io/the-f2e-week4
