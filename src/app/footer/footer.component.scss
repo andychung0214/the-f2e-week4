@@ -1,0 +1,30 @@
+footer{
+  position: absolute;
+height: 80px;
+left: 0px;
+right: 0px;
+bottom: 0px;
+
+background: #8E7DFA;
+}
+
+footer p{
+  position: absolute;
+width: 177px;
+height: 22px;
+left: calc(50% - 177px/2 + 0.5px);
+top: calc(50% - 22px/2 + 1px);
+
+/* icon */
+
+font-family: 'Noto Sans TC';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: right;
+
+color: #F2F2F4;
+}

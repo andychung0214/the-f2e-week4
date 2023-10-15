@@ -1,0 +1,35 @@
+.container{
+  display: flex;
+  flex-direction: row;
+}
+
+.container .item{
+  flex: 1;
+  justify-content: flex-start;
+}
+
+.flex-2{
+  flex: 2;
+  justify-content: flex-start;
+}
+
+.nav{
+  position: absolute;
+width: 112px;
+height: 19px;
+left: 357px;
+top: 30px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #F2F2F4;
+
+}
+
+
