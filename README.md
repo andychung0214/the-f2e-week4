@@ -19,6 +19,11 @@
 - 設計稿網址：[[Figma](https://www.figma.com/file/nWH1xPWNWIhnqsuE1mNCsb/%E8%96%AA%E8%B3%87%E6%95%B8%E6%93%9A%E5%9C%96%E8%A1%A8%E8%AA%BF%E6%9F%A5)](https://www.figma.com/file/nWH1xPWNWIhnqsuE1mNCsb/%E8%96%AA%E8%B3%87%E6%95%B8%E6%93%9A%E5%9C%96%E8%A1%A8%E8%AA%BF%E6%9F%A5)
 - 設計稿網址：[https://www.figma.com/file/HVyKNVOhSsiAZCmPCkosrx/%E6%99%82%E5%85%89%E5%B1%8B%E6%8C%91%E6%88%B0_week4?node-id=637%3A36658](https://www.figma.com/file/HVyKNVOhSsiAZCmPCkosrx/%E6%99%82%E5%85%89%E5%B1%8B%E6%8C%91%E6%88%B0_week4?node-id=637%3A36658)
 
+## 使用資料
+- 2021-ui-frontend-job: [https://github.com/hexschool/2021-ui-frontend-job](https://github.com/hexschool/2021-ui-frontend-job)
+- 前端從業人員資料: [https://raw.githubusercontent.com/hexschool/2021-ui-frontend-job/master/frontend_data.json](https://raw.githubusercontent.com/hexschool/2021-ui-frontend-job/master/frontend_data.json)
+- UI 從業人員資料: [https://raw.githubusercontent.com/hexschool/2021-ui-frontend-job/master/ui_data.json](https://raw.githubusercontent.com/hexschool/2021-ui-frontend-job/master/ui_data.json)
+
 ## 個人投稿資訊
 
 - 個人資訊：https://andychung0214.github.io/about/
