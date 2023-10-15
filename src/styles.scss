@@ -1,4 +1,51 @@
 body{
-  background-color: #E5E5E5;
+  background-color: #28234C;
+  color: #FFF;
 }
 
+/* 基本樣式和桌面版樣式 */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  width: 100px;
+  height: auto;
+}
+.dropdown {
+  position: relative;
+}
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.tabs a {
+  margin: 0 15px;
+  cursor: pointer;
+  text-decoration: none;
+  color: blue;
+}
+
+.tabs a:hover {
+  text-decoration: underline;
+}
+
+.content {
+  margin-top: 20px;
+}
+
+
+/* 响應式設計 */
+@media (max-width: 768px) {
+  .header ul {
+      flex-direction: column;
+      align-items: center;
+  }
+}

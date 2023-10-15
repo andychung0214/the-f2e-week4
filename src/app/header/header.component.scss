@@ -32,4 +32,15 @@ color: #F2F2F4;
 
 }
 
+.nav:nth-child(2) {
+  margin-left: 10rem;
+}
+
+@media (max-width: 768px) {
+  .container ul {
+      flex-direction: column;
+      align-items: center;
+  }
+}
+
 

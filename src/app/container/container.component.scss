@@ -1,0 +1,37 @@
+.textCenter {
+  text-align: center;
+}
+
+.textRight {
+  text-align: right;
+}
+
+.subTitle {
+  font-size: 32px;
+}
+
+// .tabs {
+//   border: 1px #FFF solid;
+// }
+
+.tabs a {
+  color: #9493A7;
+}
+
+.flexRow {
+  display: flex;
+  flex-direction: row;
+}
+
+.flexRowItem {
+  display: flex;
+}
+
+.flexColumn {
+  display: flex;
+  flex-direction: column;
+}
+
+.flexColumnItem {
+  display: flex;
+}

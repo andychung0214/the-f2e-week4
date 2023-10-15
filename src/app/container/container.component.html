@@ -1,4 +1,4 @@
-<p>前端薪資調查報告</p>
+<!-- <p>前端薪資調查報告</p>
 
 <div>
   <table class="pageFunction">
@@ -36,4 +36,47 @@
 
 <div class="thirdSVG">
 <label for="">第一份工作所採用之技術/軟體</label>
+</div> -->
+
+
+<div class="container">
+    <div class="subTitle textCenter">前端薪資調查報告</div>
+    <div class="tabs textCenter">
+        <a href="#" (click)="selectTab('basicData')">基本資料</a>
+        <a href="#" (click)="selectTab('salaryIndustry')">薪資與產業</a>
+    </div>
+    <div class="textRight">
+
+      <select>
+          <option value="2021">2021年</option>
+          <!-- 更多選項... -->
+      </select>
+    </div>
+    <div class="content">
+        <!-- 根據選中的頁籤更改內容 -->
+        <div *ngIf="selectedTab === 'basicData'">
+            <!-- 基本資料的內容 -->
+            <div class="flexRow">
+              <div class="flexRowItem">地區: ...</div>
+              <div class="flexRowItem">年齡: ...</div>
+            </div>
+            <div class="flexRow">
+              <div class="flexRowItem">性別比例: ...</div>
+              <div class="flexRowItem">科系與學歷: ...</div>
+            </div>
+            <div class="flexRow">
+              <div class="flexRowItem">第一份工作所採用之技術/軟體: ...</div>
+            </div>
+        </div>
+        <div *ngIf="selectedTab === 'salaryIndustry'">
+            <!-- 薪資與產業的內容 -->
+            <div class="flexColumn">
+              <div class="flexColumnItem">年資: ...</div>
+              <div class="flexColumnItem">年薪: ...</div>
+              <div class="flexColumnItem">產業分佈: ...</div>
+              <div class="flexColumnItem">產業薪資與滿意度: ...</div>
+            </div>
+        </div>
+    </div>
 </div>
+
